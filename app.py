@@ -270,7 +270,7 @@ with st.sidebar:
 st.markdown("""
 <div class="hero-container">
     <div class="hero-title">🎙️ <span class="lencho-highlight">LATERAS</span> AUDIO STUDIO</div>
-    <div class="hero-subtitle">Why pay for Elevenlabs When <span class="lencho-highlight">Lencho</span> <b> is built different?</b></div>
+    <div class="hero-subtitle">Why pay for Elevenlabs When <span class="lencho-highlight"><b><i><u>Lencho</u></i></b></span> <b> is built different?</b></div>
 </div>
 """, unsafe_allow_html=True)
 
