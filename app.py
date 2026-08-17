@@ -8,7 +8,7 @@ from kokoro_onnx import Kokoro
 
 # 1. Page Configuration
 st.set_page_config(
-    page_title="Lateras Audio Studio",
+    page_title=" Lateras Audio Studio",
     page_icon="🎙️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -269,8 +269,8 @@ with st.sidebar:
 # 5. Hero Header
 st.markdown("""
 <div class="hero-container">
-    <div class="hero-title">🎙️ <span class="lencho-highlight"> LATERA'S</span> AUDIO STUDIO</div>
-    <div class="hero-subtitle">Precision AI Voice Synthesis by <span class="lencho-highlight">Lencho</span> & <span class="lencho-highlight">Latera</span> <b>Lemessa</b></div>
+    <div class="hero-title">🎙️ <span class="lencho-highlight">LATERAS</span> AUDIO STUDIO</div>
+    <div class="hero-subtitle">Why pay for Elevenlabs When <span class="lencho-highlight">Lencho</span> <b> is built different?</b></div>
 </div>
 """, unsafe_allow_html=True)
 
