@@ -8,7 +8,7 @@ from kokoro_onnx import Kokoro
 
 # 1. Page Configuration
 st.set_page_config(
-    page_title="Lencho x Latera Audio Studio",
+    page_title="Lateras Audio Studio",
     page_icon="🎙️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -151,7 +151,7 @@ with st.sidebar:
 st.markdown("""
 <div class="hero-container">
     <div class="hero-title">🎙️ <span class="lencho-highlight">LENCHO X LATERA</span> AUDIO STUDIO</div>
-    <div class="hero-subtitle">Precision AI Voice Synthesis by <span class="lencho-highlight">Lencho</span> <b>Lemessa</b> & <span class="lencho-highlight">Latera</span> <b>Lemessa</b></div>
+    <div class="hero-subtitle">Precision AI Voice Synthesis by  & <span class="lencho-highlight">Latera</span> <b>Lemessa</b></div>
 </div>
 """, unsafe_allow_html=True)
 
