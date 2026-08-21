@@ -18,7 +18,7 @@ from kokoro_onnx import Kokoro
 # CONFIGURATION
 # ============================================================
 
-APP_NAME = "Lenchos Audio Studio"
+APP_NAME = "Lateras Audio Studio"
 
 TARGET_WORDS_PER_CHUNK = 500
 
@@ -73,7 +73,7 @@ RAW_VOICES = [
 # ============================================================
 
 st.set_page_config(
-    page_title="Lenchos Audio Studio",
+    page_title="Lateras Audio Studio",
     page_icon="🎙️",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -206,7 +206,7 @@ st.markdown(
     </style>
     <div class="hero-container">
         <div style="font-weight: 800; font-size: 28px; margin-bottom: 8px;">
-            🎙️ <span class="glowing-name">LENCHOS</span> AUDIO STUDIO
+            🎙️ <span class="glowing-name">LATERAS</span> AUDIO STUDIO
         </div>
         <div style="font-size: 16px; color: #a1a1aa;">
             Built by <span class="glowing-name">Lencho Lemessa</span> to deliver high-quality voice synthesis.
